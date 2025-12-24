@@ -26,7 +26,8 @@ A base de dados é composta por:
 * **Margem Operacional**: Percentual do resultado em relação à receita.
 
 ## 📸 Visualização
-*(Adicione aqui o print do seu dashboard financeiro)*
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/398d3ec7-9c95-4889-8841-74b9e2c6bcff" />
+
 ![Dashboard Financeiro](screenshots/visao_geral_financeira.png)
 
 ---
